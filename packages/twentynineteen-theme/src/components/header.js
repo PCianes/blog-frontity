@@ -33,9 +33,9 @@ const Container = styled.header`
 const Title = styled.h1`
 	display: inline;
 	margin: auto;
-	color: #111;
+	color: #fff;
 	font-weight: normal;
-	font-size: 1.125em;
+	font-size: 1.8em;
 	
 	&:not(.site-title):before {
 	    display: none;
@@ -49,11 +49,11 @@ const Title = styled.h1`
 
 const Description = styled.p`
     display: inline;
-    color: #767676;
+    color: #fff;
     font-weight: normal;
     margin: 0;
     letter-spacing: -0.01em;
-    font-size: 1.125em;
+    font-size: 1.25em;
     line-height: 30.9375px;
 	-webkit-hyphens: initial;
     -moz-hyphens: initial;

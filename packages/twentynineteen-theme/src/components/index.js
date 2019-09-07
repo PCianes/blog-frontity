@@ -36,6 +36,9 @@ const Theme = ( { state } ) => {
 
 export default connect( Theme );
 
-const HeadContainer = styled.div``;
+const HeadContainer = styled.div`
+  background-color: #29aae3;
+  color: #fff;
+`;
 
 const Body = styled.div``;
