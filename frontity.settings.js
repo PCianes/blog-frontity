@@ -2,9 +2,9 @@ const settings = {
   "name": "demo",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.io",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://pablocianes.com ",
+      "title": "Pablo Cianes - Blog",
+      "description": "Programador WordPress en Pamplona"
     }
   },
   "packages": [
@@ -35,8 +35,8 @@ const settings = {
             ]
           ],
           "featured": {
-            "showOnList": false,
-            "showOnPost": false
+            "showOnList": true,
+            "showOnPost": true
           }
         }
       }
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://test.frontity.io/wp-json"
+          "api": "https://pablocianes.com/wp-json"
         }
       }
     },
