@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      "@frontity/twentynineteen-theme",
+      "/home/cianes/dev/frontity/demo"
+    ]
+  ],
+  "_from": "@frontity/twentynineteen-theme@latest",
+  "_hasShrinkwrap": false,
+  "_id": "@frontity/twentynineteen-theme@1.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/@frontity/twentynineteen-theme",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/twentynineteen-theme_1.0.3_1564344517407_0.5516221868417008"
+  },
+  "_npmUser": {
+    "email": "imranhsayed@gmail.com",
+    "name": "imranhsayed"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "@frontity/twentynineteen-theme",
+    "raw": "@frontity/twentynineteen-theme",
+    "rawSpec": "",
+    "scope": "@frontity",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@frontity/twentynineteen-theme/-/twentynineteen-theme-1.0.3.tgz",
+  "_shasum": "fb23ce1990f04a94a4809761900b2f5cee6948c5",
+  "_shrinkwrap": null,
+  "_spec": "@frontity/twentynineteen-theme",
+  "_where": "/home/cianes/dev/frontity/demo",
+  "author": {
+    "name": "Imran Sayed, Smit Patadiya"
+  },
+  "bugs": {
+    "url": "https://community.frontity.org"
+  },
+  "dependencies": {
+    "@frontity/components": "^1.1.7",
+    "@frontity/html2react": "^1.1.7",
+    "frontity": "^1.2.1",
+    "react-spinners": "^0.5.4"
+  },
+  "description": "A WordPress Twentynineteen Theme in React for Frontity",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 31,
+    "integrity": "sha512-iK7wy9Dk8mmLz16uzfQ7pue0KwwinLsbzzq7gX12zKjpYxRUXduq5+SZsCBXL8wfEwyexK3+h5xRhJ/iE9lIVA==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdPgDGCRA9TVsSAnZWagAAArwP/jybe3+pQj/hOxnkZKWs\ni2TkKsGbKkrLpjIUAOa/MXRFC5V3dT3/iEXfjSnKwMkF3FtZN+u96usUZyOn\nE27CWxAbgNCOtFdQz7Ff+r996EoBLdei2gIpuxPbL50pNGGZF2ujx1CgAvl5\nNEb8wlaU0diKtMt8797O3ObJzSlAW0HRU2PDdjTXu/S8N/Z6hnJ5wxsJDkHA\nBPW36SL3ZqqRPbiohZrvYOI3/tAZBE+lzh+AsRt6QRCxyqrCIiebh+HX3QjE\n9RSz83px3maXO4TX/fwSFGVRelY0ZA0iIQgJA6f++ykp59cTiXQvYkivO7tr\nuIDVwxgLR5TKixgjBkRx0FvcsAqOnkxi4qm+N1OcU6CkYBx9r6bmz5GD4aw4\nD8RMahSAdQGT+IOZeqvDxjABdijnvkExwacqJncNnXEzHZcAqYohpD99dBBg\nPPY9qeYiotEsboPNdftOPjbSxF7G/d02hKNIpQw0/XEshpqiTx9cGl2m6vkq\nAuBwm644JPPtn3IG9Pp7RH9tIRtGZSKw9YbXSEADxdcKNnme4oQhp4YKcB+a\nh0ZI6pf3JjNLjUyKxPMgrV30Pp6yZFn1WeO4PqZ+G/xgEAxwVov6qLihsYiL\nLX0j8ND0GPGwXltclP8urIvv8c4XYLmd3cM5PbXDEul7uCSzW4S5bh35qqvJ\nTNj8\r\n=/yS1\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "fb23ce1990f04a94a4809761900b2f5cee6948c5",
+    "tarball": "https://registry.npmjs.org/@frontity/twentynineteen-theme/-/twentynineteen-theme-1.0.3.tgz",
+    "unpackedSize": 452136
+  },
+  "homepage": "https://frontity.org",
+  "keywords": [
+    "frontity",
+    "frontity-theme",
+    "twentynineteen",
+    "twentynineteen-theme"
+  ],
+  "license": "GNU GPL 2",
+  "maintainers": [
+    {
+      "name": "davidarenas",
+      "email": "darensr@gmail.com"
+    },
+    {
+      "name": "frontibotito",
+      "email": "frontibotito@frontity.com"
+    },
+    {
+      "name": "imranhsayed",
+      "email": "imranhsayed@gmail.com"
+    },
+    {
+      "name": "luisherranz",
+      "email": "luisherranz@gmail.com"
+    },
+    {
+      "name": "orballo",
+      "email": "asrielo@gmail.com"
+    },
+    {
+      "name": "poliuk",
+      "email": "hi.pablo.postigo@gmail.com"
+    }
+  ],
+  "name": "@frontity/twentynineteen-theme",
+  "optionalDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imranhsayed/frontity-twentynineteen.git"
+  },
+  "version": "1.0.3"
+}
