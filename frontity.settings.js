@@ -3,7 +3,7 @@ const settings = {
   "state": {
     "frontity": {
       "url": "https://pablocianes.com ",
-      "title": "Pablo Cianes - Blog",
+      "title": "Blog de Pablo Cianes",
       "description": "Programador WordPress en Pamplona"
     }
   },
